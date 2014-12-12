@@ -1,4 +1,5 @@
 centralfinanceira
 =================
 
-Projetoda Central Financeira do PagContas
+Projeto da Central Financeira do PagContas.
+Elaborado pela equipe de desenvolvimento do PagContas
